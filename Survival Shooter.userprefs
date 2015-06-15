@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EnemySpawnManager.cs">
+    <Files>
+      <File FileName="Assets/SliderNumber.cs" Line="7" Column="21" />
+      <File FileName="Assets/Scripts/Managers/ScoreManager.cs" Line="2" Column="1" />
+      <File FileName="Assets/SpawnButton.cs" Line="15" Column="2" />
+      <File FileName="Assets/EnemySpawnManager.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/Enemy/EnemyHealth.cs" Line="77" Column="2" />
+      <File FileName="Assets/NetworkManager.cs" Line="18" Column="33" />
+      <File FileName="Assets/AudioManager.cs" Line="37" Column="7" />
+      <File FileName="Assets/Scripts/Managers/EnemyManager.cs" Line="15" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
